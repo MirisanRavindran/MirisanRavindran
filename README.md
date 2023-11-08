@@ -3,14 +3,10 @@
 ```javascript
 const Mirisan = {
   school: "Ontario Tech University",
-  year: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  year: "Third-Year",
+  Program: "Computer-Science",
+  workExperience: ["OTU Robotics", "TAIBU Community Health Centre", "GAOTek Inc.", "AVOLTA, Inc."],
+  codingStyle: "Follow clean code principles and agile development practices.",  
 }
 ```
 
