@@ -15,8 +15,21 @@ const Mirisan = {
   year: "Third-Year",
   Program: "Computer-Science",
   workExperience: ["OTU Robotics", "TAIBU Community Health Centre", "GAOTek Inc.", "AVOLTA, Inc."],
-  codingStyle: "Follow clean code principles and agile development practices.",  
-}
+  codingStyle: "Follow clean code principles and agile development practices.",
+  roboticsRole: {
+    role: "Programming Team Lead, Computer Vision and Algorithms Team Lead, Web Development Team Lead",
+    projects: [
+      "Programming Team: I oversee the development of control systems for our robots.",
+      "Computer Vision Team: I lead the development of computer vision solutions for tracking, detecting opponent robots, and auto aiming and shooting.",
+      ""Web Development Team: ""Web Development Team Lead: I lead a team to create and manage our website, showcasing our achievements and attracting new team members",
+    ],
+    currentFocus:
+      "Our current focus is participating in the RoboMaster University Series (RMU), a global competition. We aim to build advanced and intelligent robots, focusing on control algorithms, computer vision, and web interfaces to excel in the competition.",
+    connect:
+      "I'm open to collaboration, discussion, and sharing insights with fellow robotics enthusiasts. Let's innovate together and transform the world with robotics!",
+  },
+};
+
 ```
 
 ### 🛠️ Languages and Tools
