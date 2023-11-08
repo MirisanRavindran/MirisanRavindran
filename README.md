@@ -19,7 +19,7 @@ const Mirisan = {
   roboticsRole: {
     role: "Programming Team Lead, Computer Vision and Algorithms Team Lead, Web Development Team Lead",
     projects: [
-      "Programming Team: I lead the development of control systems for our robots.",
+      "Programming Team: I oversee the development of control systems for our robots.",
       "Computer Vision Team: I lead the development of computer vision solutions for tracking, detecting opponent robots, and auto aiming and shooting.",
       "Web Development Team: I lead a team to create and manage our website, showcasing our achievements and attracting new team members",
     ],
