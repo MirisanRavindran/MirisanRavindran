@@ -19,8 +19,6 @@ const Mirisan = {
 }
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MirisanRavindran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **MirisanRavindran/MirisanRavindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
