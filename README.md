@@ -1,13 +1,18 @@
 ### Hi there 👋
 
+```javascript
+const Mirisan = {
+  school: "Ontario Tech University",
+  year: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        school: "Ontario Tech University",
-                        year: "third-year",
-                        program: "Computer Science"
-                        workExperience: ["OTU Robotics Team, TAIBU Community Health Centre, GAOTek Inc, AVOLTA, Inc."],
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
 
 <!--
 **MirisanRavindran/MirisanRavindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
