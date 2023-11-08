@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Mirisan Ravindran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 		 <a href="mailto:mirisan003@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/mirisan003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-			 <a href="https://www.instagram.com/mirisan03/" target="_blank">
+			 <a href="https://www.instagram.com/mirisan07/" target="_blank">
 	<img src="https://img.shields.io/badge/mirisan03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>			 
 </div>
 
