@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://komarev.com/ghpvc/?username=MirisanRavindran&label=Views&color=blue&style=for-the-badge" alt="Visitors" />
+	 <a href="https://www.linkedin.com/in/mirisan-ravindran-383a37206/" target="_blank">
+  <img src="https://img.shields.io/badge/Mirisan Ravindran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		 <a href="mailto:mirisan003@gmail.com" target="_blank">
+	<img src="https://img.shields.io/badge/hussain.omer@mail.utoronto.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+			 <a href="https://www.instagram.com/mirisan03/" target="_blank">
+	<img src="https://img.shields.io/badge/mirisan03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>			 
+</div>
+
+
 ```javascript
 const Mirisan = {
   school: "Ontario Tech University",
