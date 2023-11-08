@@ -45,6 +45,18 @@ const Mirisan = {
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+## Current Robotics Projects and Role
+🤖 **Role:** Programming Team Lead, Computer Vision Team Lead, Web Development Team Lead
+🔧 **Projects:** Currently, I'm leading teams in multiple robotics-related areas:
+
+- **Programming Team:** In my role as Programming Team Lead, I oversee the development of the control systems that power our robots. We focus on writing efficient, reliable, and adaptable code to ensure our robots perform at their best.
+
+- **Computer Vision Team:** As the Computer Vision Team Lead, I'm involved in developing vision systems that enable our robots to perceive and navigate their environment. This includes tasks like object recognition and tracking.
+
+- **Web Development Team:** I lead the Web Development Team, responsible for creating web-based interfaces to control and monitor our robots. These interfaces allow remote control and real-time data visualization.
+
+🚀 **Current Focus:** Our current robotics projects involve participating in the RoboMaster University Series (RMU), a global competition. Our goal is to push the boundaries of technological innovation by building advanced and intelligent robots. We are actively developing and optimizing control algorithms, computer vision solutions, and web interfaces to ensure our robots are competitive and perform exceptionally in the competition.
+
 <!--
 **MirisanRavindran/MirisanRavindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
