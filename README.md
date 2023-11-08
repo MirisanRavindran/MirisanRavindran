@@ -47,6 +47,7 @@ const Mirisan = {
 
 ## Current Robotics Projects and Role
 🤖 **Role:** Programming Team Lead, Computer Vision Team Lead, Web Development Team Lead
+
 🔧 **Projects:** Currently, I'm leading teams in multiple robotics-related areas:
 
 - **Programming Team:** In my role as Programming Team Lead, I oversee the development of the control systems that power our robots. We focus on writing efficient, reliable, and adaptable code to ensure our robots perform at their best.
