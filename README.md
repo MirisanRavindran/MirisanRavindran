@@ -24,7 +24,7 @@ const Mirisan = {
       "Web Development Team: create and manage our website, showcasing our achievements and attracting new team members",
     ],
     currentFocus:
-      "Our current focus is participating in the RoboMaster University Series (RMU), a global competition. We aim to build advanced and intelligent robots, focusing on control algorithms, computer vision",
+      "Our current focus is participating in the RoboMaster University Series (RMU), a global competition.",
   },
 };
 
