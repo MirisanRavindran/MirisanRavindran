@@ -62,7 +62,7 @@ const Mirisan = {
 
 🔧 **Projects:** Currently, I'm leading teams in multiple robotics-related areas:
 
-- **Programming Team:** In my role as Programming Team Lead, I oversee the development of the control systems that power our robots. We focus on writing efficient, reliable, and adaptable code to ensure our robots perform at their best.
+- **Programming Team:** In my role as Programming Team Lead, I oversee the development of the control systems that power our robots. We focus on writing efficient, reliable, and adaptable code to ensure our robots perform at their best. Specifically, I'm working on the movement and turret control of our robot using C++.
 
 - **Computer Vision Team:** As the Computer Vision Team Lead, I'm involved in developing vision systems that enable our robots to perceive and navigate their environment. This includes tasks like object recognition and tracking.
 
