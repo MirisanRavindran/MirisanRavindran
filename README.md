@@ -25,8 +25,6 @@ const Mirisan = {
     ],
     currentFocus:
       "Our current focus is participating in the RoboMaster University Series (RMU), a global competition. We aim to build advanced and intelligent robots, focusing on control algorithms, computer vision",
-    connect:
-      "I'm open to collaboration, discussion, and sharing insights with fellow robotics enthusiasts. Let's innovate together and transform the world with robotics!",
   },
 };
 
